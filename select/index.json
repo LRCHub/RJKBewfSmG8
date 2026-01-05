@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "うれぴっぴ！",
+  "base_artist": "のんふぃく！",
+  "createdAt": "2026-01-05T04:00:04.212405Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うれぴっぴ!",
+      "artist": "のんふぃく!",
+      "has_synced": false,
+      "path": "select/pl_01_うれぴっぴ!_のんふぃく!.txt"
+    }
+  ]
+}
